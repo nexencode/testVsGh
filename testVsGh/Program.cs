@@ -10,6 +10,13 @@ namespace testVsGh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("master");
+
+
+            Console.WriteLine("test1");
+
+            Console.ReadKey();
+
         }
     }
 }
